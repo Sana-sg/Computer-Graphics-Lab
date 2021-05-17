@@ -1,0 +1,2 @@
+C:\Users\LIYAZ\source\repos\intro_gl\Debug\intro_gl.exe
+C:\Users\LIYAZ\source\repos\intro_gl\Debug\intro_gl.pdb
